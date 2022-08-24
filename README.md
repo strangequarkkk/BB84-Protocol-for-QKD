@@ -1,4 +1,4 @@
-# BB84-Protocol-for-QKD
+# Quantum Key Distribution using the BB84 Protocol 
 
 Python libraries used: Numpy, Matplotlib, Qiskit.
 
